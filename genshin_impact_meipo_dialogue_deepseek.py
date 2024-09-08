@@ -5,9 +5,12 @@ pip install openai
 pip install sentence_transformers
 pip install pandas
 pip install langchain
+pip install langchain-community
 pip install faiss-cpu
 pip install huggingface_hub
 pip install datasets
+pip install "httpx[socks]"
+pip install tf-keras
 '''
 
 import os

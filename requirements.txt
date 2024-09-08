@@ -2,6 +2,9 @@ openai
 sentence_transformers
 pandas
 langchain
+langchain-community
 faiss-cpu
 huggingface_hub
 datasets
+httpx[socks]
+tf-keras
