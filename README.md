@@ -93,7 +93,7 @@
 
 生成的短视频结果已经上传至 Bilibili：
 - [76个角色分拆的视频合集](https://www.bilibili.com/list/3493273012275778?sid=4360340&spm_id_from=333.999.0.0&desc=1&oid=113100497945091&bvid=BV1DvpieNENg)
-- [76个角色连续的2小时合集版本](https://www.bilibili.com/video/BV1xCpiefEEq/?spm_id_from=333.999.0.0)
+- [76个角色连续的2小时合集版本](https://www.bilibili.com/video/BV1xCpiefEEq/)
 
 ## 创作灵感来源
 
