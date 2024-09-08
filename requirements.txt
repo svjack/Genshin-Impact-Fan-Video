@@ -1,0 +1,7 @@
+openai
+sentence_transformers
+pandas
+langchain
+faiss-cpu
+huggingface_hub
+datasets
