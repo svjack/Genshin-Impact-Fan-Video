@@ -89,7 +89,9 @@
      python genshin_impact_meipo_dialogue_make_video.py
      ```
 
-## 示例视频
+## 筛选后的文案与示例视频
+从多次生成结果中筛选后的文案上传至huggingface:
+- [svjack/dialogue_feat_merge_save_unique](https://huggingface.co/datasets/svjack/dialogue_feat_merge_save_unique/tree/main) 中的以 _dia.txt 结尾的文件
 
 生成的短视频结果已经上传至 Bilibili：
 - [【温迪相亲记】](https://www.bilibili.com/video/BV1DvpieNENg/) 
