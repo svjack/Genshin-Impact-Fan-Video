@@ -497,7 +497,6 @@ if __name__ == "__main__":
     out = genshin_impact_meipo_dialogue("林尼", False)
     print(out)
 
-    '''
     ## 生成76个角色多次循环的对话文案，并存储到本地
     #### 批量样本生成
     import itertools
@@ -518,4 +517,3 @@ if __name__ == "__main__":
             os.makedirs("{}_dia".format(name))
         with open(path, "w", encoding = "utf-8") as f:
             f.write(out)
-    '''
