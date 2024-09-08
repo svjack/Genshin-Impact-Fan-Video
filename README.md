@@ -92,8 +92,10 @@
 ## 示例视频
 
 生成的短视频结果已经上传至 Bilibili：
-- [【温迪相亲记】](https://www.bilibili.com/video/BV1DvpieNENg/)
+- [【温迪相亲记】](https://www.bilibili.com/video/BV1DvpieNENg/) 
 - [76个角色连续的2小时合集版本](https://www.bilibili.com/video/BV1xCpiefEEq/)
+
+其它75个人物的视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778)中的视频合集寻找
 
 ## 创作灵感来源
 
