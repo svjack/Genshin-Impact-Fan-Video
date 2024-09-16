@@ -12,3 +12,4 @@ tf-keras
 pysrt
 pydub
 moviepy
+Pillow==9.5.0
