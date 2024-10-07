@@ -145,7 +145,6 @@ https://github.com/user-attachments/assets/1213193d-34ad-4df6-a729-1216b70f834f
 
 https://github.com/user-attachments/assets/ef3e9d31-5cf0-4bf8-96d8-0464f82b952c
 
-https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video
 61个人物的动态视频生成结果可于[svjack/Genshin-Impact-Meipo-Video](https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video)中查看（新版本） <br/>
 76个人物的动态视频生成结果可于[原神相亲记](https://space.bilibili.com/3493273012275778/channel/seriesdetail?sid=4416941&ctype=0)中的视频合集寻找（旧版本） <br/>
 <b>这些动态视频在上传Bilibili之前使用视频高清化技术进行了分辨率扩展</b> <br/>
