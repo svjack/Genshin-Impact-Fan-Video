@@ -1,8 +1,8 @@
-# Genshin-Impact-Romantic-Ruckus
+# Genshin-Impact-Fan-Video
 
 ## 项目介绍
 
-**Genshin-Impact-Romantic-Ruckus** 是一个充满幽默感的《原神》AI驱动的角色相亲视频项目。通过结合大型语言模型（LLM）API生成角色互动文案，利用VITS技术进行语音合成，并结合先进的视频合成技术，创造了一系列游戏角色之间有趣且搞笑的相亲场景。最终产出为短视频，旨在为玩家带来欢乐和娱乐。
+**Genshin-Impact-Fan-Video** 是一个充满幽默感的《原神》AI驱动的角色相亲视频项目。通过结合大型语言模型（LLM）API生成角色互动文案，利用VITS技术进行语音合成，并结合先进的视频合成技术，创造了一系列游戏角色之间有趣且搞笑的相亲场景。最终产出为短视频，旨在为玩家带来欢乐和娱乐。
 
 ## 项目特点
 
@@ -83,21 +83,29 @@
 
 <br/>
 
-2. **生成短视频**：
-   - 运行以下命令生成短视频：
+2. **生成静态短视频**：
+   - 运行以下命令生成静态短视频：
      ```bash
-     python genshin_impact_meipo_dialogue_make_video.py
+     python genshin_impact_meipo_create_static_video.py
      ```
 
 ## 筛选后的文案与示例视频
+### 媒婆文案
 从多次生成结果中筛选后的文案上传至huggingface:
 - [svjack/dialogue_feat_merge_save_unique](https://huggingface.co/datasets/svjack/dialogue_feat_merge_save_unique/tree/main) 中的以 _dia.txt 结尾的文件
 
-生成的短视频结果已经上传至 Bilibili：
+### 静态短视频
+
+
+
+https://github.com/user-attachments/assets/63dec04c-2a5e-4bdf-8356-2bb3bcb3b707
+
+
+生成的静态短视频结果已经上传至 Bilibili：
 - [【温迪相亲记】](https://www.bilibili.com/video/BV1DvpieNENg/) 
 - [76个角色连续的2小时合集版本](https://www.bilibili.com/video/BV1xCpiefEEq/)
 
-其它75个人物的视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778)中的视频合集寻找
+其它75个人物的静态视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778)中的视频合集寻找
 
 ## 创作灵感来源
 
