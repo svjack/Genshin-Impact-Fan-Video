@@ -27,12 +27,12 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/svjack/Genshin-Impact-Romantic-Ruckus.git
+   git clone https://github.com/svjack/Genshin-Impact-Fan-Video.git
    ```
 
 2. 进入项目目录：
    ```bash
-   cd Genshin-Impact-Romantic-Ruckus
+   cd Genshin-Impact-Fan-Video
    ```
 
 3. 安装依赖：
