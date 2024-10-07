@@ -144,6 +144,7 @@ https://github.com/user-attachments/assets/1213193d-34ad-4df6-a729-1216b70f834f
 https://github.com/user-attachments/assets/ef3e9d31-5cf0-4bf8-96d8-0464f82b952c
 
 
+76个人物的动态视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778/channel/seriesdetail?sid=4416941&ctype=0)中的视频合集寻找
 
 ## 创作灵感来源
 ### 相亲短视频
