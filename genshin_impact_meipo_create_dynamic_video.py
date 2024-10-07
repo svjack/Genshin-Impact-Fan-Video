@@ -105,6 +105,9 @@ unzip_files_char("香菱.zip", "香菱")
 unzip_files_char("行秋.zip", "行秋")
 unzip_files_char("重云.zip", "重云")
 
+if not os.path.exists("原神剪辑视频"):
+    shutil.copytree("dialogue_video_merge_save_unique/原神剪辑视频", "原神剪辑视频")
+
 relation_mapping = {'丽莎': {'媒婆': '可莉', '女孩': '雷泽'},
  '行秋': {'媒婆': '申鹤', '女孩': '重云'},
  '优菈': {'媒婆': '琴', '女孩': '安柏'},
