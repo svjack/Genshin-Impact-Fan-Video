@@ -107,7 +107,7 @@ python genshin_impact_meipo_dialogue_deepseek.py
 python genshin_impact_meipo_create_static_video.py
 ```
 
-2. **生成动态短视频**：（这里以香菱、芭芭拉作为例子，且没有进行上采样，完整76个角色的高清化视频见下面示例视频中的B站说明）
+2. **生成动态短视频**：（这里以香菱、芭芭拉作为例子，且没有进行上采样，完整76个角色的高清化视频见下面示例视频中动态短视频的B站说明）
 - 运行以下命令生成动态短视频：
 ```bash
 python genshin_impact_meipo_create_dynamic_video.py
