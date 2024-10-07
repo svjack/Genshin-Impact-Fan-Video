@@ -50,7 +50,7 @@ sudo vim /etc/ImageMagick-6/policy.xml
    pip install -r requirements.txt
    ```
 
-### 使用方法（整个处理流程在windows系统下完成测试，生成视频前要确定moviepy、ffmpeg、magick等已成功安装配置）
+### 使用方法（整个处理流程在windows/linux系统下完成测试，生成视频前要确定moviepy、ffmpeg、magick等已成功安装配置）
 ### 以相亲场景二创短视频的制作为例
 
 1. **生成相亲对话文案**：
