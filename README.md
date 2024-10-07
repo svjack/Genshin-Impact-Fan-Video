@@ -44,12 +44,12 @@
 ### 以相亲场景二创短视频的制作为例
 
 1. **生成相亲对话文案**：
-   - 在 `.cache/DeepSeek-key.txt` 中保存对应的 API Key。对应的 API Key 获取详见 [DeepSeek API](https://www.deepseek.com/)。
-   - 运行以下命令生成温迪的相亲对话文案：
-     ```bash
-     python genshin_impact_meipo_dialogue_deepseek.py
-     ```
-   - 在 `genshin_impact_meipo_dialogue_deepseek.py` 中，`genshin_impact_meipo_dialogue("温迪", False)` 这行代码是对温迪这个角色生成对应的相亲文案的执行代码。
+- 在 `.cache/DeepSeek-key.txt` 中保存对应的 API Key。对应的 API Key 获取详见 [DeepSeek API](https://www.deepseek.com/)。
+- 运行以下命令生成温迪的相亲对话文案：
+```bash
+python genshin_impact_meipo_dialogue_deepseek.py
+```
+- 在 `genshin_impact_meipo_dialogue_deepseek.py` 中，`genshin_impact_meipo_dialogue("温迪", False)` 这行代码是对温迪这个角色生成对应的相亲文案的执行代码。
 
 ### 温迪的相亲对话文案生成结果
 
@@ -84,10 +84,10 @@
 <br/>
 
 2. **生成静态短视频**：
-   - 运行以下命令生成静态短视频：
-     ```bash
-     python genshin_impact_meipo_create_static_video.py
-     ```
+- 运行以下命令生成静态短视频：
+```bash
+python genshin_impact_meipo_create_static_video.py
+```
 
 ## 筛选后的文案与示例视频
 ### 媒婆文案
