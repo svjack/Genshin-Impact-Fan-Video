@@ -24,18 +24,22 @@
 - 其他依赖项请参考 `requirements.txt`
 
 ### 安装步骤
+1. 安装视频处理包
+   ```bash
+   sudo apt update && sudo apt install ffmpeg imagemagick
+   ```
 
-1. 克隆仓库：
+2. 克隆仓库：
    ```bash
    git clone https://github.com/svjack/Genshin-Impact-Fan-Video.git
    ```
 
-2. 进入项目目录：
+3. 进入项目目录：
    ```bash
    cd Genshin-Impact-Fan-Video
    ```
 
-3. 安装依赖：
+4. 安装依赖：
    ```bash
    pip install -r requirements.txt
    ```
