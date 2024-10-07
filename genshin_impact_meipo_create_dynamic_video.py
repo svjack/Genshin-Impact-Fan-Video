@@ -74,16 +74,36 @@ def unzip_files(zip_name, folder_name):
             extract_with_correct_encoding(zip_ref, destination_path)
         os.remove(copied_zip_path)
 
+def extract_with(zip_ref, extract_path):
+    for file_info in zip_ref.infolist():
+        try:
+            #file_info.filename = file_info.filename.encode("cp437").decode('gbk')
+            pass
+        except UnicodeDecodeError:
+            pass
+        zip_ref.extract(file_info, extract_path)
+
+def unzip_files_char(zip_name, folder_name):
+    if not os.path.exists(folder_name):
+        source_zip_path = os.path.join("dialogue_video_merge_save_unique", zip_name)
+        destination_path = os.getcwd()
+        shutil.copy(source_zip_path, destination_path)
+        copied_zip_path = f"{folder_name}.zip"
+        with zipfile.ZipFile(copied_zip_path, 'r') as zip_ref:
+            extract_with(zip_ref, destination_path)
+        os.remove(copied_zip_path)
+
 #unzip_files("原神角色背景图片（新）.zip", "原神角色背景图片（新）")
 unzip_files("提瓦特音乐（人物）（新）.zip", "提瓦特音乐（人物）（新）")
 unzip_files("d_audio.zip", "d_audio")
+unzip_files("output_videos.zip", "output_videos")
 
-unzip_files("芭芭拉.zip", "芭芭拉")
-unzip_files("安柏.zip", "安柏")
-unzip_files("优菈.zip", "优菈")
-unzip_files("香菱.zip", "香菱")
-unzip_files("行秋.zip", "行秋")
-unzip_files("重云.zip", "重云")
+unzip_files_char("芭芭拉.zip", "芭芭拉")
+unzip_files_char("安柏.zip", "安柏")
+unzip_files_char("优菈.zip", "优菈")
+unzip_files_char("香菱.zip", "香菱")
+unzip_files_char("行秋.zip", "行秋")
+unzip_files_char("重云.zip", "重云")
 
 relation_mapping = {'丽莎': {'媒婆': '可莉', '女孩': '雷泽'},
  '行秋': {'媒婆': '申鹤', '女孩': '重云'},
