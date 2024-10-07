@@ -579,7 +579,7 @@ def generate_final_video(data, output_path, blank_duration_ms=0, fontsize=100, f
         video_clips = [VideoFileClip(video_path) for video_path in video_paths]
         audio_clips = [video_clip.audio for video_clip in video_clips]
 
-        video_resol_w = video_clip.size[0]
+        video_resol_w = video_clips[0].size[0]
 
         audio_clips_with_fade = []
         for i, audio_clip in enumerate(audio_clips):
