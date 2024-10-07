@@ -29,6 +29,12 @@
    sudo apt update && sudo apt install ffmpeg imagemagick
    ```
 
+<!--
+sudo vim /etc/ImageMagick-6/policy.xml
+##### change row to
+<policy domain="path" rights="read|write" pattern="@*"/>
+-->
+
 2. 克隆仓库：
    ```bash
    git clone https://github.com/svjack/Genshin-Impact-Fan-Video.git
