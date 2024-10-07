@@ -102,7 +102,7 @@ python genshin_impact_meipo_create_static_video.py
 2. **生成动态短视频**：
 - 运行以下命令生成动态短视频：
 ```bash
-python genshin_impact_meipo_dynamic_static_video.py
+python genshin_impact_meipo_create_dynamic_video.py
 ```
 
 ## 筛选后的文案与示例视频
