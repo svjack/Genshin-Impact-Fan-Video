@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/63dec04c-2a5e-4bdf-8356-2bb3bcb3b707
 <!--
 其它75个人物的静态视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778)中的视频合集寻找
 -->
-其它75个人物的静态视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778/channel/series)中的视频合集寻找
+其它75个人物的静态视频生成结果可于[斯温温jack](https://space.bilibili.com/3493273012275778/channel/seriesdetail?sid=4360340&ctype=0)中的视频合集寻找
 
 ### 动态短视频（打开视频声音按钮）
 
