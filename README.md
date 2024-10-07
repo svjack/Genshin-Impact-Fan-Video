@@ -94,7 +94,7 @@ python genshin_impact_meipo_create_static_video.py
 从多次生成结果中筛选后的文案上传至huggingface:
 - [svjack/dialogue_feat_merge_save_unique](https://huggingface.co/datasets/svjack/dialogue_feat_merge_save_unique/tree/main) 中的以 _dia.txt 结尾的文件
 
-### 静态短视频
+### 静态短视频（打开视频声音按钮）
 
 
 
