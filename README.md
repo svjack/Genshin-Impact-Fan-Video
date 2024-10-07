@@ -93,13 +93,13 @@ python genshin_impact_meipo_dialogue_deepseek.py
 
 <br/>
 
-2. **生成静态短视频**：
+2. **生成静态短视频**：（76个角色）
 - 运行以下命令生成静态短视频：
 ```bash
 python genshin_impact_meipo_create_static_video.py
 ```
 
-2. **生成动态短视频**：
+2. **生成动态短视频**：（以香菱、芭芭拉作为例子）
 - 运行以下命令生成动态短视频：
 ```bash
 python genshin_impact_meipo_create_dynamic_video.py
