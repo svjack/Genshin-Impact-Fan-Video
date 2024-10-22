@@ -153,8 +153,8 @@ https://github.com/user-attachments/assets/ef3e9d31-5cf0-4bf8-96d8-0464f82b952c
 ## 上传到HuggingFace上的静态视频和动态视频数据集
 | 数据集名称               | 链接                                                                 |
 |--------------------------|--------------------------------------------------------------------|
-| 原神媒婆静态视频         | [https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Static-Video](https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Static-Video) |
-| 原神媒婆动态视频         | [https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video](https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video) |
+| 原神媒婆静态短视频         | [https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Static-Video](https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Static-Video) |
+| 原神媒婆动态短视频         | [https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video](https://huggingface.co/datasets/svjack/Genshin-Impact-Meipo-Video) |
 
 ## 创作灵感来源
 ### 相亲短视频
